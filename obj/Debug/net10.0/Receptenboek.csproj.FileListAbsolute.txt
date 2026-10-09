@@ -1,0 +1,14 @@
+C:\Users\nikit\OneDrive\Documenten\GitHub\Receptenboek\bin\Debug\net10.0\Receptenboek.exe
+C:\Users\nikit\OneDrive\Documenten\GitHub\Receptenboek\bin\Debug\net10.0\Receptenboek.deps.json
+C:\Users\nikit\OneDrive\Documenten\GitHub\Receptenboek\bin\Debug\net10.0\Receptenboek.runtimeconfig.json
+C:\Users\nikit\OneDrive\Documenten\GitHub\Receptenboek\bin\Debug\net10.0\Receptenboek.dll
+C:\Users\nikit\OneDrive\Documenten\GitHub\Receptenboek\bin\Debug\net10.0\Receptenboek.pdb
+C:\Users\nikit\OneDrive\Documenten\GitHub\Receptenboek\obj\Debug\net10.0\Receptenboek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Documenten\GitHub\Receptenboek\obj\Debug\net10.0\Receptenboek.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Documenten\GitHub\Receptenboek\obj\Debug\net10.0\Receptenboek.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Documenten\GitHub\Receptenboek\obj\Debug\net10.0\Receptenboek.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Documenten\GitHub\Receptenboek\obj\Debug\net10.0\Receptenboek.dll
+C:\Users\nikit\OneDrive\Documenten\GitHub\Receptenboek\obj\Debug\net10.0\refint\Receptenboek.dll
+C:\Users\nikit\OneDrive\Documenten\GitHub\Receptenboek\obj\Debug\net10.0\Receptenboek.pdb
+C:\Users\nikit\OneDrive\Documenten\GitHub\Receptenboek\obj\Debug\net10.0\Receptenboek.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Documenten\GitHub\Receptenboek\obj\Debug\net10.0\ref\Receptenboek.dll

@@ -1,0 +1,14 @@
+C:\Users\nikit\Downloads\Bomboclat\receptenboek-nikita-splinter\obj\Debug\net10.0\receptenboek-nikita-splinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\Downloads\Bomboclat\receptenboek-nikita-splinter\obj\Debug\net10.0\receptenboek-nikita-splinter.AssemblyInfoInputs.cache
+C:\Users\nikit\Downloads\Bomboclat\receptenboek-nikita-splinter\obj\Debug\net10.0\receptenboek-nikita-splinter.AssemblyInfo.cs
+C:\Users\nikit\Downloads\Bomboclat\receptenboek-nikita-splinter\obj\Debug\net10.0\receptenboek-nikita-splinter.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Downloads\Bomboclat\receptenboek-nikita-splinter\bin\Debug\net10.0\receptenboek-nikita-splinter.exe
+C:\Users\nikit\Downloads\Bomboclat\receptenboek-nikita-splinter\bin\Debug\net10.0\receptenboek-nikita-splinter.deps.json
+C:\Users\nikit\Downloads\Bomboclat\receptenboek-nikita-splinter\bin\Debug\net10.0\receptenboek-nikita-splinter.runtimeconfig.json
+C:\Users\nikit\Downloads\Bomboclat\receptenboek-nikita-splinter\bin\Debug\net10.0\receptenboek-nikita-splinter.dll
+C:\Users\nikit\Downloads\Bomboclat\receptenboek-nikita-splinter\bin\Debug\net10.0\receptenboek-nikita-splinter.pdb
+C:\Users\nikit\Downloads\Bomboclat\receptenboek-nikita-splinter\obj\Debug\net10.0\receptenboek-nikita-splinter.dll
+C:\Users\nikit\Downloads\Bomboclat\receptenboek-nikita-splinter\obj\Debug\net10.0\refint\receptenboek-nikita-splinter.dll
+C:\Users\nikit\Downloads\Bomboclat\receptenboek-nikita-splinter\obj\Debug\net10.0\receptenboek-nikita-splinter.pdb
+C:\Users\nikit\Downloads\Bomboclat\receptenboek-nikita-splinter\obj\Debug\net10.0\receptenboek-nikita-splinter.genruntimeconfig.cache
+C:\Users\nikit\Downloads\Bomboclat\receptenboek-nikita-splinter\obj\Debug\net10.0\ref\receptenboek-nikita-splinter.dll

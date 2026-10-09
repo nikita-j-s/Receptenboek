@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "receptenboek-nikita-splinter/1.0.0": {
+        "runtime": {
+          "receptenboek-nikita-splinter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "receptenboek-nikita-splinter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
